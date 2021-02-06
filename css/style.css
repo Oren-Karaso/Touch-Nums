@@ -1,0 +1,20 @@
+table {
+    margin: auto;
+    background-color:mistyrose;
+    font-size:x-large;
+}
+
+.touched {
+    background-color:rgb(113, 113, 180);
+    cursor: pointer;
+}
+
+.untouched {
+    background-color: rgb(233, 211, 178);
+    cursor: pointer;
+}
+
+.timer{
+border: solid 2px;
+width: fit-content;
+}
